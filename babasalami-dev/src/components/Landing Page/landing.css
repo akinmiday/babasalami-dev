@@ -1,0 +1,42 @@
+.landing-container{
+    text-align: center;
+    color: #fff;
+    margin: 50px auto;
+    
+    
+}
+
+.landing-container >h1{
+    color: #fff;
+    font-size: 4em;
+    text-transform: uppercase;
+}
+
+.landing-container span{
+    color: aqua;
+}
+
+.det--area{
+    margin-top: 20px;
+    padding: 10px;
+    line-height: 25px;
+    font-size: 1.2em;
+}
+
+.det--btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding: 15px;
+}
+
+
+button{
+    background-color: #123838;
+    border: none;
+    padding: 7px 18px;
+    border-radius: 14px;
+    color: #fff;
+    
+}
